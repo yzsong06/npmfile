@@ -1,0 +1,14 @@
+{
+  "name": "yzsong06",
+  "version": "1.0.3",
+  "description": "a npmfile of yzsong06",
+  "main": "package.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Hexo",
+    "NpmFile",
+    "CDN"
+  ]
+}
