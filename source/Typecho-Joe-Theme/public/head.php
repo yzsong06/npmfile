@@ -77,7 +77,7 @@
 
 <!-- 代码高亮 -->
 <?php if ($this->options->JCodeColor !== 'off') : ?>
-    <link rel="stylesheet" href="https://npm.elemecdn.com/highlight.js@11.8.0/styles/<?php $this->options->JCodeColor() ?>.css">
+    <link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/highlight.js/11.7.0/styles/<?php $this->options->JCodeColor() ?>.min.css">
 <?php endif; ?>
 
 <!-- 页面加载 -->
