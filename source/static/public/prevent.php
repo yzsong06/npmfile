@@ -115,8 +115,8 @@
         <div class="app-download-tip">
             <span class="guidance-desc">点击上方图标or复制本站网址自行打开</span>
         </div>
-        <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.min.js"></script>
-        <script src="https://cdn.jsdelivr.net/npm/clipboard@2.0.6/dist/clipboard.min.js"></script>
+        <script src="https://npm.elemecdn.com/jquery@3.5.1/dist/jquery.min.js"></script>
+        <script src="https://npm.elemecdn.com/clipboard@2.0.6/dist/clipboard.min.js"></script>
         <a data-clipboard-text="<?php echo $siteurl; ?>" class="app-download-btn">点此复制本站网址</a>
         <script type="text/javascript">
             new ClipboardJS(".app-download-btn");
